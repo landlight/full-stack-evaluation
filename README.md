@@ -31,6 +31,8 @@ Make use of the [Graphiql Debugger](https://graphql-pokemon2.vercel.app) when wo
 
 #### Requirements
 
+A list of results paginated by 10. 
+
 A search input component that searches the pokemon api by name. This component should also read the state of a search query param.
 
 A result component that displays all of information about the found pokemon or a not found view.
